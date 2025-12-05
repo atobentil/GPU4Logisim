@@ -262,8 +262,8 @@ class GPU extends ManagedComponent implements ToolTipMaker
 
 	if (state.tickGPU(clk,trigger_option) && gpusel >= 1)
 		{
-		int Addr = addr(circuitState, P_GPU_ADDR);
-		if (Addr!=-1) { /* System.out.printf("Address: %x\n",Addr); */ gpuAddr=(long)Addr; }
+		Value Addrv=circuitState.getValue(loc(P_GPU_ADDR));
+		if ((!Addrv.isUnknown())&&(!Addrv.isErrorValue())) { gpuAddr=Addrv.toLongValue(); }
 		int gpudata = addr(circuitState, P_GPU_DATAI);
 		long mem;
 		switch (gpusel)

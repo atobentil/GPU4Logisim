@@ -19,7 +19,7 @@ for an executable version.
 If those links don't work, try:
 [http://www.cburch.com/logisim/](http://www.cburch.com/logisim/).
 Alternatively, Logisim evolution (Reds-Heig) is available at:
-[https://github.com/reds-heig/logisim-evolution](https://github.com/reds-heig/logisim-evolution).
+[https://github.com/logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution).
 And Kevin Walsh's version of Logisim Evolution is available at:
 [https://github.com/kevinawalsh/logisim-evolution](https://github.com/kevinawalsh/logisim-evolution).
 
