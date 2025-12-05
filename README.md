@@ -560,6 +560,27 @@ Walsh's **Holy Cross** version of Logisim Evolution.
 <TR><TD ALIGN=center><b>rungpuhc5a.circ</b></TD><TD ALIGN=left><b>&nbsp;Logisim Ev. 5.0.5hc&nbsp;</b></TD></TR>
 </TABLE>
 
+## Which JAR file to use
+
+Since the various Logisim Evolution maintainers like to make changes that often
+break backwards compatibility, many different versions needed to be created.  Use
+the appropriate jar file as listed.  If your version of Logisim isn't listed, try
+one closest to your version.
+
+<TABLE BORDER=2 bgcolor="#102054" STYLE='color: #ffffff' VALIGN=center CELLPADDING=4>
+<TR>
+<TH ALIGN=center STYLE='background-color: #00109f'><b>&nbsp;JAR File&nbsp;</b></TD>
+<TH ALIGN=center STYLE='background-color: #00109f'><b>&nbsp;Logisim Version&nbsp;</b></TD>
+</TR>
+<TR><TD ALIGN=center><b>GPU.jar</b></TD><TD ALIGN=left><b>&nbsp;Logisim 2.7.1, Logisim Evolution 2.13.22, Logisim Evolution 2.13.20. and Logisim Evolution 3.1.0hc&nbsp;</b></TD></TR>
+<TR><TD ALIGN=center><b>GPUev.jar</b></TD><TD ALIGN=left><b>&nbsp;Logisim Ev. 3.9.0 and Logisim Ev. 4.0.0&nbsp;</b></TD></TR>
+<TR><TD ALIGN=center><b>GPUev0.jar</b></TD><TD ALIGN=left><b>&nbsp;Logisim Ev. 3.3.1hc&nbsp;</b></TD></TR>
+<TR><TD ALIGN=center><b>GPUhc.jar</b></TD><TD ALIGN=left><b>&nbsp;Logisim Ev. 5.0.4hc&nbsp;</b></TD></TR>
+<TR><TD ALIGN=center><b>GPUhc2.jar</b></TD><TD ALIGN=left><b>&nbsp;Logisim Ev. 5.0.5hc&nbsp;</b></TD></TR>
+<TR><TD ALIGN=center><b>GPUhc0.jar</b></TD><TD ALIGN=left><b>&nbsp;Logisim Ev. 4.0.4hc&nbsp;</b></TD></TR>
+<TR><TD ALIGN=center><b>GPUhc00.jar</b></TD><TD ALIGN=left><b>&nbsp;Logisim Ev. 4.0.0hc and Logisim Ev. 4.0.1hc&nbsp;</b></TD></TR>
+</TABLE>
+
 ## Demonstration Videos
 
 Youtube video (also showing my CPU design):
